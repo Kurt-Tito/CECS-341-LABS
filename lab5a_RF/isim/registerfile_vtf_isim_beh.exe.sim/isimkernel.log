@@ -1,0 +1,29 @@
+Command line:
+   registerfile_vtf_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50913
+
+Mon Mar 19 01:38:41 2018
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 1024.22 Meg
+
+ Total Signals          : 23
+ Total Nets             : 129
+ Total Signal Drivers   : 13
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 16
+ Total Traceable Variables  : 25
+ Total Scalar Nets and Variables : 1285
+Total Line Count : 43
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 395.076 Meg
+
+Mon Mar 19 08:36:59 2018
+

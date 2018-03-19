@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS 341 LABS/lab3_RCA8/RCA8_vtf_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="RCA8_vtf" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/RCA8_vtf/Cout" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Cout</obj_property>
+      <obj_property name="ObjectShortName">Cout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RCA8_vtf/S_8" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">S_8[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S_8[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RCA8_vtf/A_8" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">A_8[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A_8[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RCA8_vtf/B_8" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">B_8[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B_8[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RCA8_vtf/Cin" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Cin</obj_property>
+      <obj_property name="ObjectShortName">Cin</obj_property>
+   </wvobject>
+</wave_config>

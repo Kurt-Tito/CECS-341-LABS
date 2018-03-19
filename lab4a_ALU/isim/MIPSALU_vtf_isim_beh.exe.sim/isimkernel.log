@@ -1,0 +1,29 @@
+Command line:
+   MIPSALU_vtf_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59542
+
+Mon Feb 26 07:58:07 2018
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 866.992 Meg
+
+ Total Signals          : 19
+ Total Nets             : 114
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 13
+ Total Traceable Variables  : 22
+ Total Scalar Nets and Variables : 294
+Total Line Count : 38
+
+ Total Simulation Time: 0.1875 sec
+
+ Current Memory Usage: 552.419 Meg
+
+Mon Feb 26 08:22:59 2018
+

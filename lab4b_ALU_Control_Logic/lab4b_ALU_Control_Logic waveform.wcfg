@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS 341 LABS/lab4b_ALU_Control_Logic/ALUControl_vtf_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="ALUControl_vtf" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="3" />
+   <wvobject fp_name="/ALUControl_vtf/ALUOp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUOp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOp[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ALUControl_vtf/FuncCode" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">FuncCode[5:0]</obj_property>
+      <obj_property name="ObjectShortName">FuncCode[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ALUControl_vtf/ALUctl" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUctl[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUctl[3:0]</obj_property>
+   </wvobject>
+</wave_config>

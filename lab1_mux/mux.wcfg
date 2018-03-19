@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS 341 LABS/lab1_mux/muxvtf_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="muxvtf" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/muxvtf/Sel" type="array" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">Sel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Sel[1:0]</obj_property>
+      <obj_property name="label">Sel[1:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#0000ff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/muxvtf/In0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">In0</obj_property>
+      <obj_property name="ObjectShortName">In0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/muxvtf/In1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">In1</obj_property>
+      <obj_property name="ObjectShortName">In1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/muxvtf/In2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">In2</obj_property>
+      <obj_property name="ObjectShortName">In2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/muxvtf/In3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">In3</obj_property>
+      <obj_property name="ObjectShortName">In3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/muxvtf/Out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Out</obj_property>
+      <obj_property name="ObjectShortName">Out</obj_property>
+   </wvobject>
+</wave_config>

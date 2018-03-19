@@ -1,0 +1,29 @@
+Command line:
+   RCA8_vtf_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60218
+
+Sun Feb 11 23:02:52 2018
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 866.98 Meg
+
+ Total Signals          : 155
+ Total Nets             : 70
+ Total Signal Drivers   : 48
+ Total Blocks           : 27
+ Total Primitive Blocks : 17
+ Total Processes        : 50
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 167
+Total Line Count : 88
+
+ Total Simulation Time: 0.625 sec
+
+ Current Memory Usage: 395.121 Meg
+
+Mon Feb 12 10:10:56 2018
+

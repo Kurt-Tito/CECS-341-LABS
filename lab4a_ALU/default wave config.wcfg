@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS 341 LABS/lab4a_ALU/MIPSALU_vtf_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="MIPSALU_vtf" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/MIPSALU_vtf/ALUctl" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUctl[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUctl[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/MIPSALU_vtf/A" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">A[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/MIPSALU_vtf/B" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">B[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/MIPSALU_vtf/Zero" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Zero</obj_property>
+      <obj_property name="ObjectShortName">Zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/MIPSALU_vtf/ALUOut" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUOut[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOut[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

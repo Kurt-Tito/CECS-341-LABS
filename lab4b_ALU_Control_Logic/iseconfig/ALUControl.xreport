@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2018-03-14T08:58:37</DateModified>
+  <DateModified>2018-04-08T19:19:11</DateModified>
   <ModuleName>ALUControl</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS 341 LABS/lab4b_ALU_Control_Logic/iseconfig/ALUControl.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS 341 LABS/lab4b_ALU_Control_Logic\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab4b_ALU_Control_Logic/iseconfig/ALUControl.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab4b_ALU_Control_Logic\</ImplementationReportsDirectory>
   <DateInitialized>2018-03-04T19:12:10</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

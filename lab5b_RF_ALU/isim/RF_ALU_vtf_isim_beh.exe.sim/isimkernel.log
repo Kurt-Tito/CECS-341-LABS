@@ -1,0 +1,29 @@
+Command line:
+   RF_ALU_vtf_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55084
+
+Sun Apr 08 20:12:42 2018
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 1024.25 Meg
+
+ Total Signals          : 46
+ Total Nets             : 174
+ Total Signal Drivers   : 20
+ Total Blocks           : 7
+ Total Primitive Blocks : 4
+ Total Processes        : 25
+ Total Traceable Variables  : 31
+ Total Scalar Nets and Variables : 1404
+Total Line Count : 76
+
+ Total Simulation Time: 0.140625 sec
+
+ Current Memory Usage: 1024.25 Meg
+
+Sun Apr 08 20:17:57 2018
+

@@ -1,0 +1,7 @@
+verilog work "../lab4b_ALU_Control_Logic/ALUControl.v"
+verilog work "../lab4a_ALU/MIPSALU.v"
+verilog work "../lab5a_RF/registerfile.v"
+verilog work "../lab4c_ALUwithControl/ALUwithControl.v"
+verilog work "RF_ALU.v"
+verilog work "RF_ALU_vtf.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

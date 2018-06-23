@@ -1,0 +1,7 @@
+MO DM NULL ../lab6a_DM/DM.v vlg21/_d_m.bin 1525709814
+MO registerfile NULL ../lab5a_RF/registerfile.v vlg29/registerfile.bin 1525709814
+MO MUX2_1_32 NULL MUX2_1_32.v vlg64/_m_u_x2__1__32.bin 1525709814
+MO ALU NULL ../lab4a_ALU/MIPSALU.v vlg2A/_a_l_u.bin 1525709814
+MO ALUControl NULL ../lab4b_ALU_Control_Logic/ALUControl.v vlg23/_a_l_u_control.bin 1525709814
+MO RFALUDM NULL RFALUDM.v vlg1B/_r_f_a_l_u_d_m.bin 1525709814
+MO MUX2_1_5 NULL MUX2_1_5.v vlg0C/_m_u_x2__1__5.bin 1525709814

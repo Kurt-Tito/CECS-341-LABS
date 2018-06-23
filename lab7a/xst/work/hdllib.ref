@@ -1,0 +1,7 @@
+MO ProgramCounter NULL ProgramCounter.v vlg78/_program_counter.bin 1525709858
+MO InstructionDecoder NULL InstructionDecoder.v vlg64/_instruction_decoder.bin 1525709858
+MO Lab7a NULL Lab7a.v vlg6F/_lab7a.bin 1525709858
+MO Lab7b NULL Lab7b.v vlg70/_lab7b.bin 1525709858
+MO Lab7c NULL Lab7c.v vlg71/_lab7c.bin 1525709858
+MO InstructionMemory NULL InstructionMemory.v vlg63/_instruction_memory.bin 1525709858
+MO PCAdder NULL PCAdder.v vlg63/_p_c_adder.bin 1525709858

@@ -1,0 +1,37 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDMtb2_vtf_isim_beh.exe -prj C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDMtb2_vtf_beh.prj RFALUDMtb2_vtf work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/MUX2_1_5.v" into library work
+Analyzing Verilog file "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/MUX2_1_32.v" into library work
+Analyzing Verilog file "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/../lab6a_DM/DM.v" into library work
+Analyzing Verilog file "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/../lab5a_RF/registerfile.v" into library work
+Analyzing Verilog file "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/../lab4b_ALU_Control_Logic/ALUControl.v" into library work
+Analyzing Verilog file "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/../lab4a_ALU/MIPSALU.v" into library work
+Analyzing Verilog file "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" into library work
+Analyzing Verilog file "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDMtb2_vtf.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 36: Port Out is not connected to this instance
+WARNING:HDLCompiler:189 - "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 44: Size mismatch in connection of port <Sel>. Formal port size is 2-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 32: Size mismatch in connection of port <Sel>. Formal port size is 2-bit while actual signal size is 5-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 34: Size mismatch in connection of port <Read1>. Formal port size is 6-bit while actual signal size is 5-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 36: Size mismatch in connection of port <Sel>. Formal port size is 2-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 38: Size mismatch in connection of port <FuncCode>. Formal port size is 6-bit while actual signal size is 16-bit.
+Completed static elaboration
+Compiling module MUX2_1_5
+Compiling module registerfile
+Compiling module MUX2_1_32
+Compiling module ALUControl
+Compiling module ALU
+Compiling module DM
+Compiling module RFALUDM
+Compiling module RFALUDMtb2_vtf
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 9 Verilog Units
+Built simulation executable C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDMtb2_vtf_isim_beh.exe
+Fuse Memory Usage: 28652 KB
+Fuse CPU Usage: 406 ms

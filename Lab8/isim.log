@@ -1,0 +1,29 @@
+ISim log file
+Running: C:\Users\Kurt Tito\Documents\California State University Long Beach\CSULB Spring 2018\CECS 341\CECS-341-LABS\Lab8\Lab8_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/Lab8/Lab8_test_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/Lab8/Lab8.v" Line 21.  For instance uut/PC_ADDER/, width 2 of formal port ALUop is not equal to width 1 of actual signal ALUOp.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 28.  For instance RFALUDM/mux_5_WriteReg/, width 2 of formal port Sel is not equal to width 5 of actual signal WriteReg.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 8.  For instance RFALUDM/mux_5_WriteReg/, width 5 of formal port Out is not equal to width 1 of actual signal RegDst.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 4.  For instance RFALUDM/Lab5a/, width 6 of formal port Read1 is not equal to width 5 of actual signal Read1.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 5.  For instance RFALUDM/Lab5a/, width 6 of formal port Read2 is not equal to width 5 of actual signal Read2.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 28.  For instance RFALUDM/Lab5a/, width 6 of formal port WriteReg is not equal to width 5 of actual signal WriteReg.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 14.  For instance RFALUDM/Lab5a/, width 32 of formal port Data1 is not equal to width 1 of actual signal Clock.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 21.  For instance RFALUDM/Lab5a/, width 1 of formal port clock is not equal to width 32 of actual signal Data2.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 24.  For instance RFALUDM/mux_32_1_ALUSrc/, width 2 of formal port Sel is not equal to width 32 of actual signal b.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 7.  For instance RFALUDM/Lab4b/, width 6 of formal port FuncCode is not equal to width 16 of actual signal SEin.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/lab6bc_RF_ALU_DM/RFALUDM.v" Line 11.  For instance RFALUDM/mux_32_2_WriteData/, width 2 of formal port Sel is not equal to width 1 of actual signal MemtoReg.
+WARNING: File "C:/Users/Kurt Tito/Documents/California State University Long Beach/CSULB Spring 2018/CECS 341/CECS-341-LABS/Lab8/Lab8.v" Line 21.  For instance uut/RFALUDM/, width 2 of formal port ALUOp is not equal to width 1 of actual signal ALUOp.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

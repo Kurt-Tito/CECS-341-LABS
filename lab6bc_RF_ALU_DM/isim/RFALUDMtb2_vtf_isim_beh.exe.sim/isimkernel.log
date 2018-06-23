@@ -1,0 +1,30 @@
+Command line:
+   RFALUDMtb2_vtf_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60387
+
+Mon Apr 23 09:06:01 2018
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 1024.24 Meg
+
+ Total Signals          : 64
+ Total Nets             : 358
+ Total Signal Drivers   : 27
+ Total Blocks           : 10
+ Total Primitive Blocks : 8
+ Total Processes        : 39
+ Total Traceable Variables  : 38
+ Total Scalar Nets and Variables : 3687
+Total Line Count : 129
+Total Line Count : 129
+
+ Total Simulation Time: 0.625 sec
+
+ Current Memory Usage: 1024.24 Meg
+
+Mon Apr 23 09:20:47 2018
+

@@ -1,0 +1,7 @@
+verilog work "ProgramCounter.v"
+verilog work "PCAdder.v"
+verilog work "Lab7a.v"
+verilog work "InstructionMemory.v"
+verilog work "Lab7b.v"
+verilog work "InstructionDecoder.v"
+verilog work "Lab7c.v"

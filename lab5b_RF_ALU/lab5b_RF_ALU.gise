@@ -75,6 +75,7 @@
     <transform xil_pn:end_ts="1523244046" xil_pn:in_ck="7088898081709892996" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-7860438371382877199" xil_pn:start_ts="1523244041">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="RF_ALU_vtf_new_beh.prj"/>
@@ -87,6 +88,8 @@
     <transform xil_pn:end_ts="1523244046" xil_pn:in_ck="-3087098145739707296" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="4094225900333000660" xil_pn:start_ts="1523244046">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="RF_ALU_vtf_new_isim_beh.wdb"/>

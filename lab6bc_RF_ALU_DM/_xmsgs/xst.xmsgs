@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompilers" num="93" delta="new" ><arg fmt="%s" index="1">&quot;RFALUDM.v&quot; line 36 </arg>Too few port connections in instance &apos;<arg fmt="%s" index="2">mux_32_1_ALUSrc</arg>&apos; of module &apos;<arg fmt="%s" index="3">MUX2_1_32</arg>&apos;
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="new" ><arg fmt="%s" index="1">&quot;RFALUDM.v&quot; line 32 </arg>Connection to input port &apos;<arg fmt="%s" index="2">Sel</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="261" delta="new" ><arg fmt="%s" index="1">&quot;RFALUDM.v&quot; line 32 </arg>Connection to output port &apos;<arg fmt="%s" index="2">Out</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="new" ><arg fmt="%s" index="1">&quot;RFALUDM.v&quot; line 34 </arg>Connection to input port &apos;<arg fmt="%s" index="2">Read1</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="new" ><arg fmt="%s" index="1">&quot;RFALUDM.v&quot; line 34 </arg>Connection to input port &apos;<arg fmt="%s" index="2">Read2</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="new" ><arg fmt="%s" index="1">&quot;RFALUDM.v&quot; line 34 </arg>Connection to input port &apos;<arg fmt="%s" index="2">WriteReg</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="261" delta="new" ><arg fmt="%s" index="1">&quot;RFALUDM.v&quot; line 34 </arg>Connection to output port &apos;<arg fmt="%s" index="2">Data1</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="new" ><arg fmt="%s" index="1">&quot;RFALUDM.v&quot; line 34 </arg>Connection to input port &apos;<arg fmt="%s" index="2">clock</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="new" ><arg fmt="%s" index="1">&quot;RFALUDM.v&quot; line 36 </arg>Connection to input port &apos;<arg fmt="%s" index="2">Sel</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="new" ><arg fmt="%s" index="1">&quot;RFALUDM.v&quot; line 38 </arg>Connection to input port &apos;<arg fmt="%s" index="2">FuncCode</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="new" ><arg fmt="%s" index="1">&quot;RFALUDM.v&quot; line 44 </arg>Connection to input port &apos;<arg fmt="%s" index="2">Sel</arg>&apos; does not match port size
+</msg>
+
+<msg type="error" file="Xst" num="871" delta="new" >&quot;<arg fmt="%s" index="1">RFALUDM.v</arg>&quot; line <arg fmt="%d" index="2">32</arg>: Invalid use of input signal &lt;<arg fmt="%s" index="3">RegDst</arg>&gt; as target.
+</msg>
+
+<msg type="error" file="Xst" num="871" delta="new" >&quot;<arg fmt="%s" index="1">RFALUDM.v</arg>&quot; line <arg fmt="%d" index="2">34</arg>: Invalid use of input signal &lt;<arg fmt="%s" index="3">Clock</arg>&gt; as target.
+</msg>
+
+</messages>
+

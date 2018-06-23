@@ -1,0 +1,5 @@
+verilog work "ProgramCounter.v"
+verilog work "PCAdder.v"
+verilog work "Lab7a.v"
+verilog work "Lab7a_Tester.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

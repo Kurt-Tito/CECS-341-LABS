@@ -11,6 +11,7 @@
 	input [15:0] SEin;
 	input [4:0] ins_15_11;
 	
+	//wire 
 	//wire [31:0] InstructionOut;
 	wire RegDst;
 	wire RegWrite;
